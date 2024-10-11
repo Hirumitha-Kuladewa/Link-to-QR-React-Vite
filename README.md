@@ -2,8 +2,8 @@
 
 Project name: Link to QR<br>
 Lanuage: JavaScript<br>
-Libraries: React, React-router-dom, emailjs, Sweetalert, Bootstrap, Html5-qr-code, React-qr-code<br>
-Application theme: Green Color Based
+Libraries: React-router-dom, emailjs, Sweetalert, Bootstrap, Html5-qr-code, React-qr-code<br>
+Application theme: Blue Color Based
 
 ## Key Features
 
