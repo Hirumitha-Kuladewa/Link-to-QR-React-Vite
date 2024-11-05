@@ -48,7 +48,7 @@ Make sure you have the following installed:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/your-username/link-to-qr.git
+   git clone https://github.com/Hirumitha-Kuladewa/Link-to-QR-React-Vite.git
    ```
 
 2. Navigate to project directory
