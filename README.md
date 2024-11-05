@@ -81,7 +81,7 @@ Make sure you have the following installed:
 ## 📱 Screenshots
 
 <div align="center">
-<img src="/assets/app_screenshot.jpg" alt="App Screenshot" width="800"/>
+<img src="/src/assets/app_screenshot.jpg" alt="App Screenshot" width="800"/>
 
 *QR Code Generation Interface*
 </div>
