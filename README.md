@@ -8,7 +8,7 @@
 
 ### 🌟 Transform your links into QR codes instantly!
 
-[Live Demo](https://your-demo-link.com) · [Report Bug](https://github.com/username/link-to-qr/issues) · [Request Feature](https://github.com/username/link-to-qr/issues)
+[Live Demo](https://linktoqr-01.netlify.app) · [Report Bug](https://github.com/Hirumitha-Kuladewa/Link-to-QR-React-Vite/issues) · [Request Feature](https://github.com/Hirumitha-Kuladewa/Link-to-QR-React-Vite/issues)
 
 </div>
 
